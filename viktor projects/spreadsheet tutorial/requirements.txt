@@ -1,0 +1,3 @@
+viktor==14.8.0
+plotly
+openpyxl
